@@ -8,7 +8,7 @@ def main():
     indexer = Indexer()
     numDocs = 0
 
-    for subdir, dirs, files in os.walk(r'C:\Users\Kevin Huynh\Projects\cs121-a3\DEV'): ## TODO: need to update to directory's DEV folder
+    for subdir, dirs, files in os.walk(r'C:\Users\Justin Ho\Documents\CS 121\developer\DEV'): ## TODO: need to update to directory's DEV folder
         for filename in files:
             filepath = subdir + os.sep + filename
             f = open(filepath)
@@ -46,9 +46,9 @@ def milestone2():
     
 
     while(running):
-        query = input("Search... ")
+        query = input("Search: ")
 
-        words = query.split()
+        words = query.lower().split()
         queries = dict()
 
         num_of_words = len(words)
@@ -72,8 +72,8 @@ def milestone2():
 
                 queries[token] = {}
                 for doc in postings: 
-                    mapping = doc.strip().split(",")
-                    url = mapping[0].replace("(","").replace("'","")
+                    mapping = doc.strip().split(", ")
+                    url = mapping[0].replace("(","").replace("'","").replace('"', "").replace(")","")
                     score = float(mapping[1].replace(")",""))
                     
                     
@@ -103,9 +103,12 @@ def milestone2():
             total_doc_scores[docs] = score
 
 
-        top5 = sorted(total_doc_scores.items(), key=lambda x: x[1], reverse=True)
-
-        print(top5)
+        top5 = sorted(total_doc_scores.items(), key=lambda x: x[1], reverse=True)[0:5]
+        print()
+        print("Results: ")
+        for results in top5:
+            print(results[0])
+        print()
 
             
 
@@ -115,5 +118,5 @@ def milestone2():
 
     
 
-main()
-# milestone2()
+# main()
+milestone2()
