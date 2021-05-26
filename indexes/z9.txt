@@ -1,0 +1,2 @@
+z95:[('https://www.ics.uci.edu/~eppstein/junkyard/ukraine/ukraine.html', 22.921481000499117)]
+z9tdcjcc7gx6e1unm3qpogv53praf6cgf:[('https://www.ics.uci.edu/~kay/courses/10/hw/TagGame.xml', 10.922208510961449)]

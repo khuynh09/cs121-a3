@@ -1,0 +1,3 @@
+5k:[('http://sherlock.ics.uci.edu/data.html', 9.312770598527349), ('http://sli.ics.uci.edu/Classes-CS178-Notes/KNearestNeighbors', 9.312770598527349), ('https://www.ics.uci.edu/~ics1c/doc/www_faq.html', 9.312770598527349), ('https://www.ics.uci.edu/~ejw/whitehead_cv.html', 9.312770598527349), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/news', 9.312770598527349)]
+5km:[('https://www.ics.uci.edu/~magda/Courses/ics156/Ch1_files/outline.htm', 10.229061330401503), ('https://www.ics.uci.edu/~magda/Courses/ics156/Ch1_files/slide0037.htm', 10.229061330401503)]
+5knklxicncw1ovg3zmxeag1x0qfvnsocixzqx8h7bz0mvzbjehvqsb7:[('https://www.ics.uci.edu/~kay/courses/10/hw/FirstDay.xml', 10.922208510961449)]

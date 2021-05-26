@@ -1,0 +1,6 @@
+i8:[('https://cbcl.ics.uci.edu/public_data/DANN/data/ClinVar_ESP.y.npy', 9.535914149841558), ('https://www.ics.uci.edu/~emilyo/teaching/info43f2014/homeworks/Homework3.html', 9.535914149841558), ('https://www.ics.uci.edu/~babaks/publication.html', 9.535914149841558), ('https://www.ics.uci.edu/~schark/', 9.535914149841558)]
+i8160:[('http://archive.ics.uci.edu/ml/datasets/UJIIndoorLoc', 18.492906545822215)]
+i830077j02rik:[('https://cbcl.ics.uci.edu/public_data/shilab/PASseq_elmira_08232016/Gene-Analysis/DEGList_Minus_VS_Plus_filteredlogfc_fdr_updatedmasterlist.txt', 10.229061330401503), ('https://cbcl.ics.uci.edu/public_data/shilab/PASseq_elmira_08232016/Gene-Analysis/DEGList_Minus_VS_Plus_filteredlogfc_fdr.txt', 10.229061330401503)]
+i830012o16rik:[('https://cbcl.ics.uci.edu/public_data/shilab/PASseq_elmira_08232016/Gene-Analysis/DEGList_Minus_VS_Plus_filteredlogfc_fdr_updatedmasterlist.txt', 10.922208510961449)]
+i89fa7xnv5bb3hcsouxy5mu5ukzfj7sn60lxio:[('https://www.ics.uci.edu/~rickl/courses/cs-271/2011-fq-cs271/CS-MS-exam-roster-FQ2011.mht', 10.922208510961449)]
+i8086:[('https://www.ics.uci.edu/~aburtsev/143A/2018fall/hw/hw2-boot-xv6.html', 10.922208510961449)]

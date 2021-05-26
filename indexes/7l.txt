@@ -1,0 +1,8 @@
+7lecture:[('https://www.ics.uci.edu/~pattis/ICS-31/lectures.html', 9.535914149841558), ('https://www.ics.uci.edu/~pattis/ICS-33/lectures.html', 9.535914149841558), ('https://www.ics.uci.edu/~pattis/ICS-21/lectures.html', 9.535914149841558), ('https://www.ics.uci.edu/~pattis/ICS-46/lectures.html', 9.535914149841558)]
+7lbs:[('https://ngs.ics.uci.edu/author/ramesh/page/211/', 9.82359622229334), ('https://ngs.ics.uci.edu/blog/page/211/', 9.82359622229334), ('https://ngs.ics.uci.edu/category/personal/page/16/', 9.82359622229334)]
+7lgd3g:[('https://www.ics.uci.edu/~eppstein/junkyard/jordan-square.html', 18.492906545822215)]
+7lr1sq:[('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=AIStats%2FPostings', 10.922208510961449)]
+7latent:[('http://sli.ics.uci.edu/Classes/2011S-274a', 10.922208510961449)]
+7lzp7fg0aphtdfhy:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+7lc:[('https://www.ics.uci.edu/ugrad/degrees/degree_cse_electives.php', 10.922208510961449)]
+7ld:[('https://www.ics.uci.edu/ugrad/degrees/degree_cse_electives.php', 10.922208510961449)]

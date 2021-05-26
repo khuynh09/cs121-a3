@@ -1,0 +1,4 @@
+0kb:[('https://www.ics.uci.edu/~irus/wisen/twist99/photos/catalog_file__2.htm', 9.82359622229334), ('https://www.ics.uci.edu/~irus/wisen/twist99/photos/catalog_file__1.htm', 9.82359622229334), ('https://www.ics.uci.edu/~irus/wisen/twist99/photos/', 9.82359622229334)]
+0kqqnbr09rc:[('https://transformativeplay.ics.uci.edu/pervasive-games-film-festival/', 10.922208510961449)]
+0kvweeqtpo4k0v:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+0k:[('https://www.ics.uci.edu/~eppstein/junkyard/hedronometry.html', 10.922208510961449)]

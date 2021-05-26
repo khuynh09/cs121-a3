@@ -1,0 +1,6 @@
+j9:[('https://www.ics.uci.edu/~gopi/Resume.html', 14.432916925405634), ('https://www.ics.uci.edu/~kobsa/kobsa-publi.htm', 14.432916925405634), ('http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=Pubs%2FPubsDB', 8.524313238163078), ('https://www.ics.uci.edu/~aces/journals.htm', 8.524313238163078), ('https://www.ics.uci.edu/~givargis/', 8.524313238163078), ('https://www.ics.uci.edu/~ihler/pubs00.html', 8.524313238163078), ('https://www.ics.uci.edu/~emj/Mjolsness_CV_V67p.htm', 8.524313238163078), ('https://www.ics.uci.edu/~eppstein/junkyard/napkin.html', 8.524313238163078), ('https://www.ics.uci.edu/~majumder/pub.html', 8.524313238163078), ('https://www.ics.uci.edu/~ihler/pubs.html', 8.524313238163078), ('https://www.ics.uci.edu/~kobsa/kobsa-research.htm', 8.524313238163078)]
+j9a:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+j9f:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+j9bmui5qk2vstamstdhalmri39gfgfo6suxshrvzpwbrw29yq2:[('https://www.ics.uci.edu/~kay/courses/10/hw/TagGame.xml', 10.922208510961449)]
+j98:[('https://www.ics.uci.edu/~dan/bridge/performance.html', 10.922208510961449)]
+j9865:[('https://www.ics.uci.edu/~dan/bridge/performance.html', 10.922208510961449)]

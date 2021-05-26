@@ -1,0 +1,6 @@
+9k:[('https://www.ics.uci.edu/~dan/genealogy/Miller/maps.htm', 15.767891282098136), ('https://www.ics.uci.edu/~vitus/ics1c/doc/javascript.txt', 9.312770598527349), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/news', 9.312770598527349), ('https://www.ics.uci.edu/~eppstein/163/s15-hw8.html', 9.312770598527349), ('https://www.ics.uci.edu/~thornton/ics46/TournamentResults.html', 9.312770598527349)]
+9kb:[('https://www.ics.uci.edu/~irus/wisen/twist99/photos/catalog_file__2.htm', 16.632794246735298), ('https://www.ics.uci.edu/~irus/wisen/twist99/photos/catalog_file__1.htm', 16.632794246735298), ('https://www.ics.uci.edu/~irus/wisen/twist99/photos/', 16.632794246735298)]
+9kuan:[('http://archive.ics.uci.edu/ml/support/Molecular+Biology+(Promoter+Gene+Sequences)', 10.922208510961449)]
+9kgeunwz5z8q6sggwi4clc0lf:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+9kkdfoafplj4u9l:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+9kbgkmkj4wwxyk0zoskkjksortmaosizodtknplc7qs6lojgjvfpuglupwonn9zz0y:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]

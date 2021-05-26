@@ -1,0 +1,2 @@
+qy:[('https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs122b-2017-spring-project1/data.sql', 10.229061330401503), ('https://www.ics.uci.edu/~eppstein/numth/egypt/force.html', 10.229061330401503)]
+qyze8wxnqae:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]

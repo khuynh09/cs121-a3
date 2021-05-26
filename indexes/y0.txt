@@ -1,0 +1,4 @@
+y0:[('https://www.ics.uci.edu/~eppstein/261/w11-hw4-key.txt', 10.229061330401503), ('https://www.ics.uci.edu/~eppstein/161/960307.html', 10.229061330401503)]
+y0ca199:[('https://www.ics.uci.edu/~wjohnson/BIDA/DiagnosticTestsPart2/CodeandDataMedicalTestsPart2.txt', 10.922208510961449)]
+y0ca125:[('https://www.ics.uci.edu/~wjohnson/BIDA/DiagnosticTestsPart2/CodeandDataMedicalTestsPart2.txt', 10.922208510961449)]
+y0nz:[('https://www.ics.uci.edu/~goodrich/teach/ics247/notes/.htpasswd', 10.922208510961449)]

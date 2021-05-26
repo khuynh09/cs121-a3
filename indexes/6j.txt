@@ -1,0 +1,6 @@
+6jun:[('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P2-peaks-motifs/knownResults.html', 10.922208510961449)]
+6jhxrevrkuk0m2dwo2vl6xtv1850umhbtm3wrk8hzurj5to3mw7honugrx6r:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+6j64:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+6jlsmkunvqyg:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+6j9gk5qvksgyf9803bkzzchx9cmzbxvrdhi4rfkzl4l4nvehuqcmi5:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+6jan2000:[('https://www.ics.uci.edu/~feldman/131SYLLW20.htm', 10.922208510961449)]

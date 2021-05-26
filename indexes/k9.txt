@@ -1,0 +1,4 @@
+k9s:[('https://www.ics.uci.edu/~eppstein/pix/roseparade/K9s4Cops.html', 16.632794246735298), ('https://www.ics.uci.edu/~eppstein/pix/roseparade/MedievalTimes2.html', 9.82359622229334), ('https://www.ics.uci.edu/~eppstein/pix/roseparade/MichiganStateFloat.html', 9.82359622229334)]
+k987:[('https://www.ics.uci.edu/~dan/bridge/slam.txt', 10.922208510961449)]
+k974:[('https://www.ics.uci.edu/~dan/bridge/performance.html', 10.922208510961449)]
+k982:[('https://www.ics.uci.edu/~dan/bridge/performance.html', 10.922208510961449)]

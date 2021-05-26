@@ -1,0 +1,5 @@
+8qq:[('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/news', 30.75621735316966), ('http://archive.ics.uci.edu/ml/datasets/GNFUV+Unmanned+Surface+Vehicles+Sensor+Data', 9.312770598527349), ('http://archive.ics.uci.edu/ml/datasets/GNFUV+Unmanned+Surface+Vehicles+Sensor+Data+Set+2', 9.312770598527349), ('http://archive.ics.uci.edu/ml/datasets/Query+Analytics+Workloads+Dataset', 9.312770598527349), ('https://www.ics.uci.edu/~eppstein/cgt/surreal.html', 9.312770598527349)]
+8q13:[('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P4-promoters-motifs/chromosome.txt', 17.319306351344068), ('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P2-promoters-motifs/chromosome.txt', 17.319306351344068)]
+8quiz:[('https://www.ics.uci.edu/~jutts/7-W13/', 26.063604580682984)]
+8q:[('https://www.ics.uci.edu/~eppstein/numth/egypt/qgrady.html', 26.063604580682984)]
+8q4:[('https://www.ics.uci.edu/~eppstein/junkyard/circle-quad.html', 10.229061330401503), ('https://www.ics.uci.edu/~eppstein/junkyard/mand-area.html', 10.229061330401503)]

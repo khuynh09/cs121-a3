@@ -1,0 +1,4 @@
+9zsiot3:[('https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs122a-2016-spring/2016s-cs122a-hw4-script.sql', 9.535914149841558), ('https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs122a-2016-spring/2016s-cs122a-hw5-script.sql', 9.535914149841558), ('https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs122a-2016-spring/2016s-cs122a-hw5-script.sql', 9.535914149841558), ('https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs122a-2016-spring/2016s-cs122a-hw4-script.sql', 9.535914149841558)]
+9z:[('https://www.ics.uci.edu/~minhaenl/MH/MHP2G/MHP2G%20v1.2.files/sheet009.htm', 18.492906545822215)]
+9zqe49mjyyq:[('https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs122b-2017-spring-project1/data.sql', 10.922208510961449)]
+9zll6lc5k:[('https://www.ics.uci.edu/~kay/courses/10/hw/TagGame.xml', 10.922208510961449)]

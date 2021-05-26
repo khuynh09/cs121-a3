@@ -1,0 +1,5 @@
+9gb:[('https://www.ics.uci.edu/~marios/pubs.html', 16.632794246735298), ('http://vision.ics.uci.edu/datasets/index.html', 9.82359622229334), ('http://vision.ics.uci.edu/datasets/', 9.82359622229334)]
+9geoffrey:[("http://archive.ics.uci.edu/ml/support/MONK's+Problems", 10.922208510961449)]
+9ghz:[('http://archive.ics.uci.edu/ml/datasets/DSRC+Vehicle+Communications', 10.922208510961449)]
+9g2tlxsaqoi0byi3ckqkzsayxdfkl7d1sh07:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+9gvlaqoa24dlg4zdt9ygxml7ircaf6a78kgm:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]

@@ -1,0 +1,2 @@
+0ul:[('http://dynamo.ics.uci.edu/paapi.html', 10.229061330401503), ('https://www.ics.uci.edu/~dsm/dyn/release/paapi.html', 10.229061330401503)]
+0ut:[('https://www.ics.uci.edu/~ics1c/doc/html_good.html', 18.492906545822215)]

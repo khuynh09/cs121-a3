@@ -1,0 +1,4 @@
+y6:[('http://archive.ics.uci.edu/ml/datasets/Stock+portfolio+performance', 10.922208510961449)]
+y622jvsgenouwjexdathqbj6q7sfrtsyj:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+y6koj7:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+y6zruscsc0lxihnnk5vi16jjxhlsmgzwh:[('https://www.ics.uci.edu/~kay/courses/10/hw/TagGame.xml', 10.922208510961449)]

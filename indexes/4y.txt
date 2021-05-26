@@ -1,0 +1,5 @@
+4yr:[('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/news', 18.492906545822215)]
+4y:[('http://archive.ics.uci.edu/ml/datasets/Bank+Marketing', 10.922208510961449)]
+4ym3l5lqh44zlwgk4wsbhwlwmci00qqkmkeiewjmttknp:[('https://www.ics.uci.edu/~kay/courses/10/hw/FirstDay.xml', 10.922208510961449)]
+4yz:[('https://www.ics.uci.edu/~rohit/IEEE-L7-FTP-COLUMN-FINAL.htm', 10.922208510961449)]
+4yh4e4ohdxzg8omvi9mv:[('https://www.ics.uci.edu/~kay/courses/10/hw/TagGame.xml', 10.922208510961449)]

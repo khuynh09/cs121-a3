@@ -1,0 +1,3 @@
+m8:[('http://mondego.ics.uci.edu/datasets/maven-contents.txt', 65.90076350458361), ('http://archive.ics.uci.edu/ml/datasets/Vicon+Physical+Action+Data+Set', 9.535914149841558), ('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P4-promoters-motifs/pfam.txt', 9.535914149841558), ('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P2-promoters-motifs/pfam.txt', 9.535914149841558)]
+m80w2sjemsjemsjemsjemsjenaadub:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+m8ejx:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]

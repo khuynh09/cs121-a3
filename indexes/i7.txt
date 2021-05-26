@@ -1,0 +1,7 @@
+i7:[('http://archive.ics.uci.edu/ml/datasets/Online+Video+Characteristics+and+Transcoding+Time+Dataset', 9.82359622229334), ('https://www.ics.uci.edu/~thornton/ics23/LabManual/BlackAndWhite/', 9.82359622229334), ('https://www.ics.uci.edu/~seal/projects/energy-test-min/tool.html', 9.82359622229334)]
+i773:[('http://vision.ics.uci.edu/papers/RamananB_ICIP_2000/', 10.922208510961449)]
+i7gdub7yap2ah4gt7glmansavydewbpg:[('https://www.ics.uci.edu/~rickl/courses/cs-271/2011-fq-cs271/CS-MS-exam-roster-FQ2011.mht', 10.922208510961449)]
+i714pmnxfdlyveftbsvh5psycoiwph5a1wkfzwcocbrl:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+i7ss:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+i7alf69zgwstsovey529hsm:[('https://www.ics.uci.edu/~kay/courses/10/hw/TagGame.xml', 10.922208510961449)]
+i730:[('https://www.ics.uci.edu/~taylor/ICS125_FQ04/ProjectOpportunities.html', 10.922208510961449)]

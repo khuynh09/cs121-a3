@@ -1,0 +1,3 @@
+u70:[('http://archive.ics.uci.edu/ml/datasets/Ozone+Level+Detection', 10.922208510961449)]
+u73166:[('https://cbcl.ics.uci.edu/public_data/shilab/RNAseq_elmira_09072016/DE_Genes_edgeR/Entirelist_CFI68_vs_293T-modified.txt', 10.922208510961449)]
+u7pc:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]

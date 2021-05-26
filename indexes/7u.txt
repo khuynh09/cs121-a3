@@ -1,0 +1,6 @@
+7u7:[('https://www.ics.uci.edu/~thornton/ics22/LabManual/SettingUpJava.html', 16.632794246735298), ('https://www.ics.uci.edu/~thornton/ics22/LabManual/', 9.82359622229334), ('https://www.ics.uci.edu/~thornton/ics22/LabManual/index.html', 9.82359622229334)]
+7u6:[('https://www.ics.uci.edu/~jacobson/ics45J/SettingUpJava.html', 22.921481000499117)]
+7u5:[('https://www.ics.uci.edu/~thornton/ics21/LabManual/SettingUpJava.html', 10.229061330401503), ('https://www.ics.uci.edu/~thornton/ics23/LabManual/SettingUpJava.html', 10.229061330401503)]
+7u3:[('https://www.ics.uci.edu/~thornton/inf102/LabManual/SettingUpJava.html', 10.922208510961449)]
+7uoxbuxwceek2plmeapjsemt0t33gkhh2ynusclo9ugs:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+7u72:[('https://www.ics.uci.edu/~pattis/common/handouts/macpythoneclipsejava/python.html', 10.922208510961449)]

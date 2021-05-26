@@ -1,0 +1,5 @@
+9lecture:[('https://www.ics.uci.edu/~pattis/ICS-31/lectures.html', 9.535914149841558), ('https://www.ics.uci.edu/~pattis/ICS-33/lectures.html', 9.535914149841558), ('https://www.ics.uci.edu/~pattis/ICS-21/lectures.html', 9.535914149841558), ('https://www.ics.uci.edu/~pattis/ICS-46/lectures.html', 9.535914149841558)]
+9l18:[('https://cbcl.ics.uci.edu/public_data/shilab/RNAseq_elmira_09072016/DE_Genes_edgeR/Entirelist_CFI68_vs_293T-modified.txt', 9.82359622229334), ('https://cbcl.ics.uci.edu/public_data/shilab/RNAseq_elmira_09072016/DE_Genes_edgeR/Entirelist_CFI59_vs_293T-modified.txt', 9.82359622229334), ('https://cbcl.ics.uci.edu/public_data/shilab/RNAseq_elmira_09072016/DE_Genes_edgeR/Entirelist_CFI25_vs_293T-modified.txt', 9.82359622229334)]
+9l8:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+9lqmdjtp2s6zpdusdrr8ps2vcjhumolc85l7hv:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+9lpmwsnttui3llovrlb1gzq6wpbjcy4rgvrhrs74cuoavabaohfw9bpgmfkj:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]

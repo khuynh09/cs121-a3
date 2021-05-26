@@ -1,0 +1,8 @@
+3juan:[('http://archive.ics.uci.edu/ml/support/Waveform+Database+Generator+(Version+2)', 10.229061330401503), ('http://archive.ics.uci.edu/ml/support/Waveform+Database+Generator+(Version+1)', 10.229061330401503)]
+3jan:[('https://www.ics.uci.edu/~jutts/7-W13/', 18.492906545822215)]
+3july2016:[('https://www.ics.uci.edu/~rickl/courses/cs-171/2016-smrq-cs171/CS-171-SMRQ-2016.htm', 18.492906545822215)]
+3jbfwltrxjw:[('https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs122b-2017-spring-project1/data.sql', 10.922208510961449)]
+3jdg93fj:[('https://www.ics.uci.edu/~rohit/IEEE-L7-names-trust.html', 10.922208510961449)]
+3j9fsaj30sd:[('https://www.ics.uci.edu/~rohit/IEEE-L7-names-trust.html', 10.922208510961449)]
+3j8ait:[('https://www.ics.uci.edu/~eppstein/junkyard/borromeo.html', 10.922208510961449)]
+3jz:[('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/news', 10.922208510961449)]

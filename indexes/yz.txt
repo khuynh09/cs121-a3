@@ -1,0 +1,8 @@
+yz:[('https://www.ics.uci.edu/~dan/class/165/notes/splay.html', 21.787939062780907), ('https://www.ics.uci.edu/~eppstein/junkyard/hedronometry.html', 21.787939062780907), ('https://www.ics.uci.edu/~eppstein/numth/egypt/qgrady.html', 15.459194052257152), ('http://tutors.ics.uci.edu/index.php/79-python-resources/118-python-for-exercises', 9.130449041733394), ('https://www.ics.uci.edu/~thornton/ics142/MidtermAnswers.html', 9.130449041733394), ('https://www.ics.uci.edu/~eppstein/junkyard/untetra/', 9.130449041733394)]
+yzzboookcphxfeeklucxcylbkdyxmvd1le:[('https://cbcl.ics.uci.edu/lib/exe/css.php?t=centered-cbcl&tseed=358bf243a3b71e23e8f1a0456db14afa', 10.229061330401503), ('https://cbcl.ics.uci.edu/lib/exe/css.php?t=centered-cbcl&tseed=9e32c19a82c10e185637144811c5fcd1', 10.229061330401503)]
+yzfg:[('http://tutors.ics.uci.edu/index.php/79-python-resources/118-python-for-exercises', 18.492906545822215)]
+yzjklnei3pj0jzh0a:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+yzhwrnmu4n10pydtqe7gtebq4rgbxo0:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+yzbeylpw78atvtz2lorbc3b:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+yzbzns6j77y:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+yzb:[('https://www.ics.uci.edu/~thornton/ics142/MidtermAnswers.html', 10.922208510961449)]

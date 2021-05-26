@@ -1,0 +1,5 @@
+q0:[('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/progp', 24.409551372286636), ('https://www.ics.uci.edu/~eppstein/junkyard/hyperball.html', 17.319306351344068)]
+q07:[('http://mondego.ics.uci.edu/datasets/maven-contents.txt', 28.50082497601321)]
+q0i:[('https://cbcl.ics.uci.edu/lib/exe/css.php?t=centered-cbcl&tseed=358bf243a3b71e23e8f1a0456db14afa', 10.229061330401503), ('https://cbcl.ics.uci.edu/lib/exe/css.php?t=centered-cbcl&tseed=9e32c19a82c10e185637144811c5fcd1', 10.229061330401503)]
+q0ghskkjwp:[('https://www.ics.uci.edu/~eppstein/numth/egypt/3-179.html', 18.492906545822215)]
+q0ecicinc4e:[('https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs122b-2017-spring-project1/data.sql', 10.922208510961449)]

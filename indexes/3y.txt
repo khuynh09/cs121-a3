@@ -1,0 +1,6 @@
+3yz:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.229061330401503), ('https://www.ics.uci.edu/~rohit/IEEE-L7-FTP-COLUMN-FINAL.htm', 10.229061330401503)]
+3ycmmj6rxa8:[('https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs122b-2017-spring-project1/data.sql', 10.922208510961449)]
+3yxjs7bukyc:[('https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs122b-2017-spring-project1/data.sql', 10.922208510961449)]
+3yytoid5k8wfrrqvzwavj3lgnxx7j:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+3yrdigkydonehtt62njivqyvywxh89vp02nhvw:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+3yiao:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]

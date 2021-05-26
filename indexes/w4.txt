@@ -1,0 +1,4 @@
+w4:[('http://sli.ics.uci.edu/Classes/2015F-179', 19.16127256003967), ('https://www.ics.uci.edu/~ardalan/courses/advanced_os/schedule.html', 15.459194052257152), ('https://ngs.ics.uci.edu/eventweb-11-causal-chains/', 9.130449041733394), ('https://www.ics.uci.edu/~kobsa/kobsa-publi.htm', 9.130449041733394), ('https://www.ics.uci.edu/~kobsa/kobsa-research.htm', 9.130449041733394), ('https://www.ics.uci.edu/~aces/conferences.htm', 9.130449041733394)]
+w45wzgfnae8c4hnugarsxo04zyawvqvmqhx4n:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+w4ploc7tz:[('https://www.ics.uci.edu/~kay/courses/10/hw/TagGame.xml', 10.922208510961449)]
+w4mh2srk1xdalkaccoxomumdmkcnqbndo:[('https://www.ics.uci.edu/~kay/courses/10/hw/hw7-lists.xml', 10.922208510961449)]

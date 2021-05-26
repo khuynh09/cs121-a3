@@ -1,0 +1,7 @@
+5i:[('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/paper6', 46.451354646639054), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/paper2', 42.87831008025776), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/paper1', 32.40203761155772), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/paper3', 16.145706156865923)]
+5in:[('https://grape.ics.uci.edu/wiki/public/wiki/cs222-2018-fall-project2-description?action=diff&version=1', 9.82359622229334), ('https://grape.ics.uci.edu/wiki/public/wiki/cs222-2017-fall-project2-description?action=diff&version=1', 9.82359622229334), ('https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2018-fall-project2-description?action=diff&version=1', 9.82359622229334)]
+5inches:[('https://ngs.ics.uci.edu/author/ramesh/page/211/', 9.82359622229334), ('https://ngs.ics.uci.edu/blog/page/211/', 9.82359622229334), ('https://ngs.ics.uci.edu/category/personal/page/16/', 9.82359622229334)]
+5icc:[('https://www.cs.uci.edu/news/page/13/', 9.82359622229334), ('https://www.cs.uci.edu/eppstein-shares-research-at-conferences-in-australia-canada-and-tokyo/', 9.82359622229334), ('https://www.ics.uci.edu/community/news/view_news.php?id=1261', 9.82359622229334)]
+5isr:[('https://www.ics.uci.edu/about/annualreport/2005-06/events.php', 10.922208510961449)]
+5iafeyax6ixsha17bkgnxubumcxqoq95lh:[('https://www.ics.uci.edu/~kay/courses/10/hw/TagGame.xml', 10.922208510961449)]
+5inch:[('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/news', 10.922208510961449)]

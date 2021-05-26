@@ -1,0 +1,5 @@
+m9:[('http://mondego.ics.uci.edu/datasets/maven-contents.txt', 63.336655619691456), ('http://archive.ics.uci.edu/ml/datasets/Vicon+Physical+Action+Data+Set', 9.535914149841558), ('http://archive.ics.uci.edu/ml/datasets/HTRU2', 9.535914149841558), ('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 9.535914149841558)]
+m91b:[('https://www.ics.uci.edu/~eppstein/280/regress.html', 10.229061330401503), ('https://www.ics.uci.edu/~eppstein/280/bib.html', 10.229061330401503)]
+m91a:[('https://www.ics.uci.edu/~eppstein/280/bib.html', 10.922208510961449)]
+m94:[('https://www.ics.uci.edu/~eppstein/bibs/meshgen.bib', 10.922208510961449)]
+m90:[('https://www.ics.uci.edu/~eppstein/bibs/meshgen.bib', 10.922208510961449)]

@@ -1,0 +1,2 @@
+k8:[('http://archive.ics.uci.edu/ml/datasets/p53+Mutants', 28.557078830462924), ('https://www.ics.uci.edu/~eppstein/junkyard/thickness/', 10.229061330401503)]
+k8efjr:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]

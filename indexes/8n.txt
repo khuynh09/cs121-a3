@@ -1,0 +1,2 @@
+8n:[('https://www.ics.uci.edu/~pattis/ICS-46/lectures/notes/aa1.txt', 36.23013972427656), ('https://www.ics.uci.edu/~pattis/ICS-33/lectures/aa.txt', 36.23013972427656), ('https://cbcl.ics.uci.edu/public_data/shilab/PASseq_Plos_Elmira_20170130/bwfiles/', 24.301096669598873), ('https://www.ics.uci.edu/~eppstein/261/w18-hw2-soln.html', 15.767891282098136), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/paper1', 9.312770598527349)]
+8n2n:[('https://www.ics.uci.edu/~eppstein/163/s12-hw6.html', 10.922208510961449)]

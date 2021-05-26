@@ -1,0 +1,8 @@
+4w2par:[('http://archive.ics.uci.edu/ml/datasets/Communities+and+Crime+Unnormalized', 18.492906545822215)]
+4wd:[('http://archive.ics.uci.edu/ml/datasets/Automobile', 10.922208510961449)]
+4wmcbrkwj54:[('https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs122b-2017-spring-project1/data.sql', 10.922208510961449)]
+4works:[('https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs221-2019-spring-project2/Team3StressTest.txt', 10.922208510961449)]
+4wh5h:[('https://www.ics.uci.edu/~rickl/courses/cs-271/2011-fq-cs271/CS-MS-exam-roster-FQ2011.mht', 10.922208510961449)]
+4wujmocnht:[('https://www.ics.uci.edu/~kay/courses/10/hw/FirstDay.xml', 10.922208510961449)]
+4wavynzw9nmwdy5m:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+4wivhd0kg2e:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]

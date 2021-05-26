@@ -1,0 +1,5 @@
+7q36:[('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P4-promoters-motifs/chromosome.txt', 17.319306351344068), ('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P2-promoters-motifs/chromosome.txt', 17.319306351344068)]
+7q31:[('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P4-promoters-motifs/chromosome.txt', 17.319306351344068), ('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P2-promoters-motifs/chromosome.txt', 17.319306351344068)]
+7qg6clmekuqma2knwkt7knwk1erewjvsg3m7ipdk7xgj2uffexet5bm:[('https://www.ics.uci.edu/~rickl/courses/cs-271/2011-fq-cs271/CS-MS-exam-roster-FQ2011.mht', 10.922208510961449)]
+7q6lclhjozkbzptaeoauswn9n1aroa92p6nhodczaj:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+7qnomddhun7s6z9ztc3hgvb:[('https://www.ics.uci.edu/~kobsa/kobsa-public-key.txt', 10.922208510961449)]

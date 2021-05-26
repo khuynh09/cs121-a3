@@ -1,0 +1,6 @@
+5lecture:[('https://www.ics.uci.edu/~pattis/ICS-31/lectures.html', 9.535914149841558), ('https://www.ics.uci.edu/~pattis/ICS-33/lectures.html', 9.535914149841558), ('https://www.ics.uci.edu/~pattis/ICS-21/lectures.html', 9.535914149841558), ('https://www.ics.uci.edu/~pattis/ICS-46/lectures.html', 9.535914149841558)]
+5lpoxgnaseap:[('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P2-promoters-motifs/prints.txt', 10.229061330401503), ('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P4-promoters-motifs/prints.txt', 10.229061330401503)]
+5lb:[('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/akivlang.htm', 18.492906545822215)]
+5level:[('https://www.ics.uci.edu/~rickl/courses/cs-171/0-ihler-2016-fq/Projects/ConnectK/src/ConnectKSource_java/build/resources/main/logback.xml', 10.229061330401503), ('https://www.ics.uci.edu/~rickl/courses/cs-171/0-ihler-2016-fq/Projects/ConnectK/src/ConnectKSource_java/src/main/resources/logback.xml', 10.229061330401503)]
+5lkuwiudizx9azt5ga:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+5le682:[('https://www.ics.uci.edu/~eppstein/junkyard/adventures-among-the-toroids.html', 10.922208510961449)]

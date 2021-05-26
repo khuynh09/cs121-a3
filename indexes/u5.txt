@@ -1,0 +1,5 @@
+u5:[('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/progp', 20.012186618541605), ('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P4-promoters-motifs/pfam.txt', 16.145706156865923), ('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P2-promoters-motifs/pfam.txt', 16.145706156865923), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/paper3', 9.535914149841558)]
+u50:[('http://archive.ics.uci.edu/ml/datasets/Ozone+Level+Detection', 10.922208510961449)]
+u5l:[('https://www.ics.uci.edu/~rickl/courses/cs-271/2011-fq-cs271/CS-MS-exam-roster-FQ2011.mht', 10.922208510961449)]
+u5841y:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+u5uprtj1hs691ov350rmgbi5vc:[('https://www.ics.uci.edu/~kobsa/courses/INF241/15F/syllabus.htm', 10.922208510961449)]

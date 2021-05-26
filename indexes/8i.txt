@@ -1,0 +1,8 @@
+8ii:[('https://www.ics.uci.edu/~kay/courses/h22/hw/DVD.txt', 10.229061330401503), ('https://www.ics.uci.edu/~kay/courses/h22/hw/DVD-random.txt', 10.229061330401503)]
+8icm:[('https://transformativeplay.ics.uci.edu/pervasive-games-film-festival/', 10.922208510961449)]
+8information:[('https://www.ics.uci.edu/~kobsa/privacy/Denmark.htm', 10.922208510961449)]
+8im0ug:[('https://www.ics.uci.edu/~eppstein/cgt/sylver.html', 10.922208510961449)]
+8ic4ft:[('https://www.ics.uci.edu/~eppstein/cgt/sylver.html', 10.922208510961449)]
+8iu0ia:[('https://www.ics.uci.edu/~eppstein/cgt/sylver.html', 10.922208510961449)]
+8in:[('https://www.ics.uci.edu/~alexv/IWIA/ieee.macros', 10.922208510961449)]
+8i1apbr16ukwtb:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]

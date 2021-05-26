@@ -1,0 +1,4 @@
+0l:[('http://mondego.ics.uci.edu/projects/SourcererCC/precision/FP-2.txt', 35.866885061718165), ('http://mondego.ics.uci.edu/projects/SourcererCC/precision/TP-1.txt', 31.281561851887826), ('http://mondego.ics.uci.edu/projects/SourcererCC/precision/TP-2.txt', 31.281561851887826), ('http://mondego.ics.uci.edu/projects/SourcererCC/precision/FP-3.txt', 21.420090164746323), ('http://mondego.ics.uci.edu/projects/SourcererCC/precision/FP-1.txt', 21.420090164746323), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/news', 15.19819426332623), ('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 8.976298361906135)]
+0lx:[('https://www.ics.uci.edu/~eppstein/junkyard/teabag.html', 10.922208510961449)]
+0l2vamyqjkqinqhhgr4qx:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+0lab:[('https://www.ics.uci.edu/~pattis/ICS-46/lectures.html', 10.922208510961449)]

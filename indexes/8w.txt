@@ -1,0 +1,4 @@
+8w:[('https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs122a-2016-spring/2016s-cs122a-hw4-script.sql', 9.535914149841558), ('https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs122a-2016-spring/2016s-cs122a-hw5-script.sql', 9.535914149841558), ('https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs122a-2016-spring/2016s-cs122a-hw5-script.sql', 9.535914149841558), ('https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs122a-2016-spring/2016s-cs122a-hw4-script.sql', 9.535914149841558)]
+8watch:[('https://transformativeplay.ics.uci.edu/classes/inf-241-introduction-to-ubiquitous-computing/', 10.922208510961449)]
+8w9nj:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+8wmvlx2n6l:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]

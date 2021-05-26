@@ -1,0 +1,3 @@
+0in:[('https://www.ics.uci.edu/~alexv/IWIA/ieee.macros', 22.921481000499117)]
+0i1i:[('https://www.ics.uci.edu/~eppstein/1f/hw5-soln.html', 18.492906545822215)]
+0ifmfvrfgcoeamp1klbedi:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]

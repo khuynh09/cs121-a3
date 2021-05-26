@@ -1,0 +1,3 @@
+u4:[('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/progp', 20.615919751018424), ('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/paper3', 9.82359622229334), ('https://www.ics.uci.edu/~jmoorkan/vhdlref/blocks.html', 9.82359622229334)]
+u4dkubcra9skfh0xvtjztqoccttaxhr:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+u47gdmg:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]

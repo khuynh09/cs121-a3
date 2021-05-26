@@ -1,0 +1,5 @@
+4q13:[('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P4-promoters-motifs/chromosome.txt', 17.319306351344068), ('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P2-promoters-motifs/chromosome.txt', 17.319306351344068)]
+4q21:[('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P4-promoters-motifs/chromosome.txt', 17.319306351344068), ('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P2-promoters-motifs/chromosome.txt', 17.319306351344068)]
+4qe:[('https://www.ics.uci.edu/~eppstein/junkyard/dodecahedron-slices.html', 10.922208510961449)]
+4qob91:[('https://www.ics.uci.edu/~eppstein/junkyard/mand-area.html', 10.922208510961449)]
+4qnzcccfsowbrp8jsdceuedjgfe:[('https://www.ics.uci.edu/~kobsa/kobsa-public-key.txt', 10.922208510961449)]

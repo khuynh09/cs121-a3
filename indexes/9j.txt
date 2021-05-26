@@ -1,0 +1,5 @@
+9josh:[('https://transformativeplay.ics.uci.edu/classes/ics-169-capstone/', 18.492906545822215)]
+9jund:[('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P2-peaks-motifs/knownResults.html', 10.922208510961449)]
+9j9uyx37zpafhxckf:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+9jwjrh8vtx26pf9b:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+9july:[('https://www.ics.uci.edu/~rickl/courses/cs-171/2016-smrq-cs171/CS-171-SMRQ-2016.htm', 10.922208510961449)]

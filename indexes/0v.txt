@@ -1,0 +1,2 @@
+0vbtg:[('https://www.ics.uci.edu/~rickl/courses/cs-271/2011-fq-cs271/CS-MS-exam-roster-FQ2011.mht', 10.922208510961449)]
+0vax:[('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/paper1', 10.922208510961449)]

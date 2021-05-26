@@ -1,0 +1,4 @@
+2q:[('https://www.ics.uci.edu/~eppstein/cgt/sylver.html', 37.06038832006117), ('https://www.ics.uci.edu/~eppstein/numth/egypt/qgrady.html', 31.408243279743505), ('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/api/mathop-sqrti.html', 9.82359622229334)]
+2qsxeemqzegbllzhxz3383:[('https://cbcl.ics.uci.edu/lib/exe/css.php?t=centered-cbcl&tseed=358bf243a3b71e23e8f1a0456db14afa', 17.319306351344068), ('https://cbcl.ics.uci.edu/lib/exe/css.php?t=centered-cbcl&tseed=9e32c19a82c10e185637144811c5fcd1', 17.319306351344068)]
+2q37:[('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P4-promoters-motifs/chromosome.txt', 17.319306351344068), ('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P2-promoters-motifs/chromosome.txt', 17.319306351344068)]
+2q4tlry1:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]

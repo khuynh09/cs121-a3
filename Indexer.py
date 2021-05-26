@@ -36,24 +36,30 @@ class Indexer:
                 "while", "who", "who's", "whom", "why", "why's", "with", "won't", "would", "wouldn't", "you",
                 "you'd", "you'll", "you're", "you've", "your", "yours", "yourself", "yourselves"]
 
+    content = {}
+
     def __init__(self):
         pass
 
     def parse(self, content, url):
         defraggedUrl = urldefrag(url)[0]
         soup = BeautifulSoup(content, 'html.parser')
+        # if soup.get_text() not in content.values():
+        #     return
         tokens = re.findall(r'[A-Za-z0-9]+', soup.get_text().lower())
         for t in tokens:
 
             if t not in self.stop_words: 
                 if t not in self.invertedIndex:
                     self.invertedIndex[t] = {"total_frequency": 1, "postings": {defraggedUrl: 1}}
+                    
                 else:
                     self.invertedIndex[t]["total_frequency"] += 1 
                     if defraggedUrl not in self.invertedIndex[t]['postings']:
                         self.invertedIndex[t]['postings'][defraggedUrl] = 1
                     else:
                         self.invertedIndex[t]['postings'][defraggedUrl] += 1
+                # content[defraggedUrl] = soup.get_text()
         self.total_documents += 1
 
     def compute_tdidf(self):
@@ -61,7 +67,7 @@ class Indexer:
             for p,freq in self.invertedIndex[token]["postings"].items():
                 total_freq = freq
 
-                self.invertedIndex[token]["postings"][p] = total_freq * math.log(self.total_documents/len(self.invertedIndex[token]["postings"])) 
+                self.invertedIndex[token]["postings"][p] = (1+math.log(total_freq))* math.log(self.total_documents/len(self.invertedIndex[token]["postings"])) 
 
             self.invertedIndex[token]["postings"]
             

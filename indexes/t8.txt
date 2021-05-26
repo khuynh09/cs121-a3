@@ -1,0 +1,5 @@
+t8xsmpnqy9p2tbrahzusfczzbiigkrioovgmgp7pvpvqpyszcgbpogkty1gmapm4cqn4bopze0xcaxffeujxkac5xi1itbya5:[('https://cbcl.ics.uci.edu/lib/exe/css.php?t=centered-cbcl&tseed=358bf243a3b71e23e8f1a0456db14afa', 10.229061330401503), ('https://cbcl.ics.uci.edu/lib/exe/css.php?t=centered-cbcl&tseed=9e32c19a82c10e185637144811c5fcd1', 10.229061330401503)]
+t8:[('http://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction', 10.922208510961449)]
+t85:[('http://archive.ics.uci.edu/ml/datasets/Ozone+Level+Detection', 10.922208510961449)]
+t8w4ddwhpmngxxxpny5xkr2o3b:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+t8pbwwspdvrsouggoavmpb6b8:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]

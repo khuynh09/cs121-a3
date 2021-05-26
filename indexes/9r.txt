@@ -1,0 +1,7 @@
+9rc3:[('http://mondego.ics.uci.edu/datasets/maven-contents.txt', 42.49145152489754)]
+9rm:[('https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs222-2019-fall-project2/Project2.2.patch', 10.229061330401503), ('https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs222-2019-fall-project2/Project2.patch', 10.229061330401503)]
+9rudy:[('http://archive.ics.uci.edu/ml/support/Heart+Disease', 10.922208510961449)]
+9ru:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+9rlnspnxmzdtei5jnybcn1gslxetpb7:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+9rgw0rijtf9bg4:[('https://www.ics.uci.edu/~kay/courses/10/hw/TagGame.xml', 10.922208510961449)]
+9rz:[('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/news', 10.922208510961449)]

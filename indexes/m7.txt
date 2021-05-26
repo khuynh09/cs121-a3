@@ -1,0 +1,6 @@
+m7:[('http://mondego.ics.uci.edu/datasets/maven-contents.txt', 73.5291945741366), ('http://archive.ics.uci.edu/ml/datasets/Vicon+Physical+Action+Data+Set', 10.229061330401503)]
+m700:[('https://www.ics.uci.edu/community/news/articles/view_article?id=84', 30.49217903535988)]
+m7wrt6ji75dtdgyyy4wx6iai0kx:[('https://cbcl.ics.uci.edu/lib/exe/css.php?t=centered-cbcl&tseed=358bf243a3b71e23e8f1a0456db14afa', 10.229061330401503), ('https://cbcl.ics.uci.edu/lib/exe/css.php?t=centered-cbcl&tseed=9e32c19a82c10e185637144811c5fcd1', 10.229061330401503)]
+m76:[('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P4-promoters-motifs/pfam.txt', 10.229061330401503), ('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P2-promoters-motifs/pfam.txt', 10.229061330401503)]
+m7991uf9l9:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+m7bf:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]

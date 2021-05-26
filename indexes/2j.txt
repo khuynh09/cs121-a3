@@ -1,0 +1,8 @@
+2j:[('https://www.ics.uci.edu/~alspaugh/cls/shr/set.html', 22.223011965668924), ('https://www.ics.uci.edu/~thornton/ics46/Notes/AVLTrees/', 9.312770598527349), ('https://www.ics.uci.edu/~eppstein/261/f03-outline/17.unionfind', 9.312770598527349), ('https://www.ics.uci.edu/~thornton/ics46/Notes/ComparisonBasedSorting/', 9.312770598527349), ('https://www.ics.uci.edu/~taylor/classes/119/syllabusSQ07.html', 9.312770598527349)]
+2juan:[('http://archive.ics.uci.edu/ml/support/Waveform+Database+Generator+(Version+2)', 17.319306351344068), ('http://archive.ics.uci.edu/ml/support/Waveform+Database+Generator+(Version+1)', 10.229061330401503)]
+2jan:[('https://www.ics.uci.edu/~jutts/7-W13/', 18.492906545822215)]
+2july2016:[('https://www.ics.uci.edu/~rickl/courses/cs-171/2016-smrq-cs171/CS-171-SMRQ-2016.htm', 18.492906545822215)]
+2jerome:[('http://archive.ics.uci.edu/ml/support/Tic-Tac-Toe+Endgame', 10.922208510961449)]
+2jm:[('https://www.ics.uci.edu/~thornton/ics46/Notes/AVLTrees/', 10.922208510961449)]
+2jlzqxsixjywgbvqtfpvkh:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+2jt:[('https://www.ics.uci.edu/~thornton/ics46/Notes/ComparisonBasedSorting/', 10.922208510961449)]

@@ -1,0 +1,5 @@
+5y:[('https://www.ics.uci.edu/~eppstein/junkyard/bao-dissection-challenges.html', 17.319306351344068), ('https://www.ics.uci.edu/~eppstein/junkyard/small-dist.html', 10.229061330401503)]
+5ydgdwhky9dxvmuonglzqxauznmnai0:[('https://www.ics.uci.edu/~rickl/courses/cs-271/2011-fq-cs271/CS-MS-exam-roster-FQ2011.mht', 10.922208510961449)]
+5yiuqrxf5y5lkh:[('https://www.ics.uci.edu/~irus/wisen/twist99/presentations/masinter/tsld012.htm', 10.922208510961449)]
+5yvmxrhpkvwblnsckpehuohlscknysptq:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+5yz:[('https://www.ics.uci.edu/~rohit/IEEE-L7-FTP-COLUMN-FINAL.htm', 10.922208510961449)]

@@ -1,0 +1,6 @@
+g7:[('https://www.ics.uci.edu/~ics1c/M/msg00022.html', 30.154084897570478), ('https://www.ics.uci.edu/~ics1c/hw4/27.html', 9.130449041733394), ('https://www.ics.uci.edu/~ics1c/M/msg00021.html', 9.130449041733394), ('https://www.ics.uci.edu/~theory/269/100107.html', 9.130449041733394), ('https://www.ics.uci.edu/~ics1c/M/maillist.html', 9.130449041733394), ('https://www.ics.uci.edu/~ics1c/M/msg00023.html', 9.130449041733394)]
+g7646:[('https://www.ics.uci.edu/~aburtsev/143A/2018fall/lectures/lecture06-system-boot/figs/', 9.82359622229334), ('https://www.ics.uci.edu/~aburtsev/238P/lectures/lecture06-system-boot/figs/', 9.82359622229334), ('https://www.ics.uci.edu/~aburtsev/238P/2018fall/lectures/lecture06-system-boot/figs/', 9.82359622229334)]
+g78:[('http://archive.ics.uci.edu/ml/datasets/M.+Tuberculosis+Genes', 10.229061330401503), ('http://archive.ics.uci.edu/ml/datasets/E.+Coli+Genes', 10.229061330401503)]
+g7live:[('https://www.ics.uci.edu/~ics1c/M/msg00022.html', 10.922208510961449)]
+g7gs73yjriytqtky:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+g7wcrst95f27k64pwj2dmtodb6hmapwjd2fwhsudotbi0vjfbw0dbvthsttyz3rg0ahysw3ey:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]

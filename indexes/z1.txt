@@ -1,0 +1,6 @@
+z1:[('http://mondego.ics.uci.edu/projects/SourcererCC/precision/TP-1.txt', 22.223011965668924), ('https://www.ics.uci.edu/~eppstein/junkyard/circumcenter.html', 19.543894819616565), ('http://archive.ics.uci.edu/ml/datasets/Wearable+Computing%3A+Classification+of+Body+Postures+and+Movements+%28PUC-Rio%29', 9.312770598527349), ('https://www.ics.uci.edu/~eppstein/261/w11-hw4-key.txt', 9.312770598527349), ('https://www.ics.uci.edu/~irus/wisen/twist99/presentations/gorlick/tsld012.htm', 9.312770598527349)]
+z12oglnpoq3gjh4om04cfdlbgp2uepyytpw0k:[('http://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection', 10.922208510961449)]
+z1000:[('https://ngs.ics.uci.edu/progress-in-digital-cameras/', 10.922208510961449)]
+z1jaunejmuqkxhdbhis8snx1klyj9fnfytsjlaiyvi2rbhqyosehbaaekpyktagdprb1mgd:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+z1ur:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+z17i7qufa1f1clyi6epq092xzagysvw5j2gub1y8v7yd4ypwc7jg5uotap:[('https://www.ics.uci.edu/~kay/courses/10/hw/TagGame.xml', 10.922208510961449)]

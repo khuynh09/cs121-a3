@@ -1,0 +1,5 @@
+0nir:[('http://archive.ics.uci.edu/ml/support/Solar+Flare', 10.922208510961449)]
+0nu7dc9bidg:[('https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs122b-2017-spring-project1/data.sql', 10.922208510961449)]
+0ns:[('https://www.ics.uci.edu/~jmoorkan/vhdlref/vhdl.html', 10.922208510961449)]
+0ncqnrpf4amyuq2rcp:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+0n12n:[('https://www.ics.uci.edu/~goodrich/teach/cs162/hw/midterm2.html', 10.922208510961449)]

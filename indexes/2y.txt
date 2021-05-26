@@ -1,0 +1,7 @@
+2y:[('https://www.ics.uci.edu/~eppstein/junkyard/bao-dissection-challenges.html', 15.19819426332623), ('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/api/mathop.html', 8.976298361906135), ('https://www.ics.uci.edu/~irani/f13-6B/homework/week5', 8.976298361906135), ('https://www.ics.uci.edu/~eppstein/junkyard/acute-square/postings.html', 8.976298361906135), ('https://www.ics.uci.edu/~eppstein/junkyard/circumcenter.html', 8.976298361906135), ('https://www.ics.uci.edu/~eppstein/numth/egypt/binary.html', 8.976298361906135), ('https://www.ics.uci.edu/~eppstein/junkyard/buckyball.html', 8.976298361906135)]
+2y1:[('https://www.ics.uci.edu/~eppstein/junkyard/circumcenter.html', 26.063604580682984)]
+2y2:[('https://www.ics.uci.edu/~eppstein/junkyard/circumcenter.html', 26.063604580682984)]
+2y3:[('https://www.ics.uci.edu/~eppstein/junkyard/circumcenter.html', 26.063604580682984)]
+2yearcourseplan:[('https://mcs.ics.uci.edu/about/curriculum/2017-2018/', 10.922208510961449)]
+2y7sdji:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+2yz:[('https://www.ics.uci.edu/~rohit/IEEE-L7-FTP-COLUMN-FINAL.htm', 10.922208510961449)]

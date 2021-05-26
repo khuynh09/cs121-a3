@@ -1,0 +1,7 @@
+2unix:[('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/paper2', 34.92075349003678)]
+2u:[('https://www.ics.uci.edu/~yug10/projects/SiggraphAsia2018/supl/dataset.html', 17.319306351344068), ('http://tutors.ics.uci.edu/index.php/tutor-resources/81-cpp-resources/101-cpp-exercises', 10.229061330401503)]
+2use:[('https://grape.ics.uci.edu/wiki/asterix/attachment/wiki/cs122a-2019-spring/createscript.sql', 10.922208510961449)]
+2up:[('https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs221-2019-spring-project2/Team2StressTest.txt', 10.922208510961449)]
+2uci:[('https://www.ics.uci.edu/~dgillen/lab-members.html', 10.922208510961449)]
+2u80fg:[('https://www.ics.uci.edu/~eppstein/gina/kern.html', 10.922208510961449)]
+2uf:[('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/news', 10.922208510961449)]

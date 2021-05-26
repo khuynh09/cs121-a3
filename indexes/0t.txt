@@ -1,0 +1,2 @@
+0truetrue:[('https://www.ics.uci.edu/~pattis/ICS-31/lectures/simplify/lecture.html', 26.69210044416328), ('https://www.ics.uci.edu/~pattis/ICS-21/lectures/simplification/lecture.html', 26.69210044416328)]
+0th:[('https://www.ics.uci.edu/~dan/class/267P/rfc2301/chapter2.html', 16.632794246735298), ('https://www.ics.uci.edu/~asuncion/GuitarFactory/GIG/GigReadme.htm', 16.632794246735298), ('https://www.ics.uci.edu/~dan/class/267P/rfc2301/chapter3.html', 16.632794246735298)]

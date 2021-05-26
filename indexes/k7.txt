@@ -1,0 +1,4 @@
+k7:[('http://archive.ics.uci.edu/ml/datasets/p53+Mutants', 17.319306351344068), ('https://www.ics.uci.edu/~dan/bridge/performance.html', 10.229061330401503)]
+k7utaa1ify4:[('https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs122b-2017-spring-project1/data.sql', 10.922208510961449)]
+k7qy:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+k7qrctnjxat9m3i8gamz7phvi7w9uakbkoiy9dojq:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]

@@ -1,0 +1,5 @@
+t5:[('http://mondego.ics.uci.edu/datasets/maven-contents.txt', 32.54958844466277), ('https://www.ics.uci.edu/~eppstein/junkyard/wordprob.html', 15.459194052257152), ('https://www.ics.uci.edu/~wscacchi/Presentations/Nasa-ARC-talk/tsld011.htm', 15.459194052257152), ('http://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction', 9.130449041733394), ('http://archive.ics.uci.edu/ml/datasets/Data+for+Software+Engineering+Teamwork+Assessment+in+Education+Setting', 9.130449041733394), ('https://www.ics.uci.edu/~majumder/pub.html', 9.130449041733394)]
+t50:[('http://archive.ics.uci.edu/ml/datasets/Ozone+Level+Detection', 10.922208510961449)]
+t53dggiirpfe3gz0d5wjjtk1fat44dhpd:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+t519:[('https://www.ics.uci.edu/~dan/genealogy/Miller/resource/nara.htm', 10.922208510961449)]
+t5j:[('https://www.ics.uci.edu/~eppstein/gina/address-data-format.html', 10.922208510961449)]

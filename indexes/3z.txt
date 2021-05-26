@@ -1,0 +1,4 @@
+3z:[('https://www.ics.uci.edu/~minhaenl/MH/MHP2G/MHP2G%20v1.2.files/sheet009.htm', 36.55319336694715), ('https://www.ics.uci.edu/~eppstein/numth/egypt/smallnum.html', 20.012186618541605), ('https://www.ics.uci.edu/~minhaenl/MH/MHP2G/MHP2G%20v1.2.files/sheet011.htm', 16.145706156865923), ('https://www.ics.uci.edu/~minhaenl/MH/MHP2G/MHP2G%20v1.2.files/sheet024.htm', 9.535914149841558)]
+3zo6:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+3zazvrmpljihe3hy099evde:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+3zwbv9fnfj1olp0msqlhvdolxaispvgbjan:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]

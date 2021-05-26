@@ -1,0 +1,4 @@
+6u13:[('https://www.ics.uci.edu/~jacobson/cs122b/Project/03-Phase0.html', 10.922208510961449)]
+6uci:[('https://www.ics.uci.edu/~dgillen/lab-members.html', 10.922208510961449)]
+6u67:[('https://www.ics.uci.edu/~pattis/common/handouts/pythoneclipsejava/troubleshooting.html', 10.922208510961449)]
+6u:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]

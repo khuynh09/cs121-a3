@@ -1,0 +1,3 @@
+2v:[('https://www.ics.uci.edu/~yug10/projects/SiggraphAsia2018/supl/dataset.html', 15.459194052257152), ('https://www.ics.uci.edu/~eppstein/junkyard/euler/', 9.130449041733394), ('https://www.ics.uci.edu/~eppstein/junkyard/euler/sphere.html', 9.130449041733394), ('https://www.ics.uci.edu/~eppstein/junkyard/euler/index.html', 9.130449041733394), ('https://www.ics.uci.edu/~theory/269/090227.html', 9.130449041733394), ('https://www.ics.uci.edu/~eppstein/junkyard/euler/all.html', 9.130449041733394)]
+2vkx:[('https://www.ics.uci.edu/~kay/courses/10/hw/FirstDay.xml', 10.922208510961449)]
+2v3p48ct1vssqm8pf44lfkit0ndnal72cfrpmhmxjh0a:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]

@@ -1,0 +1,3 @@
+u987:[('https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs122a-2016-spring/2016s-cs122a-hw4-script.sql', 45.402395553469496), ('https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs122a-2016-spring/2016s-cs122a-hw5-script.sql', 45.402395553469496), ('https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs122a-2016-spring/2016s-cs122a-hw5-script.sql', 45.402395553469496), ('https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs122a-2016-spring/2016s-cs122a-hw4-script.sql', 45.402395553469496)]
+u9imq2fjqg3f43:[('https://www.ics.uci.edu/~eppstein/junkyard/teabag.html', 10.922208510961449)]
+u9ftojp:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]

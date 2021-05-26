@@ -1,0 +1,6 @@
+5q:[('https://www.ics.uci.edu/~eppstein/numth/egypt/qgrady.html', 26.69210044416328), ('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.229061330401503)]
+5q13:[('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P4-promoters-motifs/chromosome.txt', 17.319306351344068), ('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P2-promoters-motifs/chromosome.txt', 17.319306351344068)]
+5q7:[('https://www.ics.uci.edu/~thornton/ics32a/Notes/PythonBasics/', 10.229061330401503), ('https://www.ics.uci.edu/~thornton/ics32/Notes/PythonBasics/', 10.229061330401503)]
+5qvuj5rrayi:[('https://www.ics.uci.edu/~rickl/courses/cs-271/2011-fq-cs271/CS-MS-exam-roster-FQ2011.mht', 10.922208510961449)]
+5qndvbim3bvb6wn9:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+5qbkrzg0aa6twddz:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]

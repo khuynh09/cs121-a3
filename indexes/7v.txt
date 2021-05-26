@@ -1,0 +1,2 @@
+7vru3aaaafhrstlmaaaicidi0nn6rkzgbv83x8:[('https://cbcl.ics.uci.edu/lib/exe/css.php?t=centered-cbcl&tseed=358bf243a3b71e23e8f1a0456db14afa', 24.409551372286636), ('https://cbcl.ics.uci.edu/lib/exe/css.php?t=centered-cbcl&tseed=9e32c19a82c10e185637144811c5fcd1', 24.409551372286636)]
+7veronica:[('https://www.stat.uci.edu/seminar-series-2018-2019/', 10.922208510961449)]

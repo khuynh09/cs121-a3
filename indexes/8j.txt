@@ -1,0 +1,6 @@
+8jwpfcaaaab3rjtuuh4akodb8ijn8sfgaaai1jrefusmftzyekakeugof:[('https://cbcl.ics.uci.edu/lib/exe/css.php?t=centered-cbcl&tseed=358bf243a3b71e23e8f1a0456db14afa', 10.229061330401503), ('https://cbcl.ics.uci.edu/lib/exe/css.php?t=centered-cbcl&tseed=9e32c19a82c10e185637144811c5fcd1', 10.229061330401503)]
+8july2016:[('https://www.ics.uci.edu/~rickl/courses/cs-171/2016-smrq-cs171/CS-171-SMRQ-2016.htm', 18.492906545822215)]
+8j6:[('https://www.ics.uci.edu/~eppstein/junkyard/mand-area.html', 18.492906545822215)]
+8j8vbz:[('https://www.ics.uci.edu/~kay/courses/10/hw/FirstDay.xml', 10.922208510961449)]
+8jkesuhrsmds80ron6yqsbhv32jbfdjburu06jru:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+8jgi9qkoftwesngzxzbd2ck4kpbj:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]

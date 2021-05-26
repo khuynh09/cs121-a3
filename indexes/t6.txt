@@ -1,0 +1,7 @@
+t626:[('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/cns-1930.htm', 64.89585743731294)]
+t621:[('https://www.ics.uci.edu/~dan/genealogy/Miller/resource/nara.htm', 37.11252066791404)]
+t6options:[('https://www.ics.uci.edu/~dan/class/267P/rfc2301/chapter4.html', 27.42511777546038), ('https://www.ics.uci.edu/~dan/class/267P/rfc2301/chapter8.html', 16.632794246735298), ('https://www.ics.uci.edu/~dan/class/267P/rfc2301/chapter13.html', 9.82359622229334)]
+t6:[('https://duttgroup.ics.uci.edu/publications/?limit=3', 17.319306351344068), ('http://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction', 10.229061330401503)]
+t68:[('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/news', 22.921481000499117)]
+t6z2u2rgdg55log44:[('https://cbcl.ics.uci.edu/lib/exe/css.php?t=centered-cbcl&tseed=358bf243a3b71e23e8f1a0456db14afa', 10.229061330401503), ('https://cbcl.ics.uci.edu/lib/exe/css.php?t=centered-cbcl&tseed=9e32c19a82c10e185637144811c5fcd1', 10.229061330401503)]
+t612:[('https://www.ics.uci.edu/~dan/genealogy/Miller/resource/nara.htm', 10.922208510961449)]

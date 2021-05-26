@@ -1,0 +1,7 @@
+qxsd5iigcm2cuo0aaaaaelftksuqmcc:[('https://cbcl.ics.uci.edu/lib/exe/css.php?t=centered-cbcl&tseed=358bf243a3b71e23e8f1a0456db14afa', 10.229061330401503), ('https://cbcl.ics.uci.edu/lib/exe/css.php?t=centered-cbcl&tseed=9e32c19a82c10e185637144811c5fcd1', 10.229061330401503)]
+qxd5:[('https://www.ics.uci.edu/~eppstein/180a/970424.html', 18.492906545822215)]
+qx20cwv:[('https://www.ics.uci.edu/~rickl/courses/cs-271/2011-fq-cs271/CS-MS-exam-roster-FQ2011.mht', 10.922208510961449)]
+qxxfyyzhqdsoyo7ecgperfqdxozsi1vjp2i7pvz6jhxrahw7wjx6rto56h3zsi5g3zm:[('https://www.ics.uci.edu/~rickl/courses/cs-271/2011-fq-cs271/CS-MS-exam-roster-FQ2011.mht', 10.922208510961449)]
+qxd6:[('https://www.ics.uci.edu/~eppstein/180a/970424.html', 10.922208510961449)]
+qx8efdu90ymr3wckutx4eswyhtrli:[('https://www.ics.uci.edu/~kay/courses/10/hw/TagGame.xml', 10.922208510961449)]
+qxw03200:[('https://www.ics.uci.edu/~dan/genealogy/Miller/spira/brknspir.htm', 10.922208510961449)]

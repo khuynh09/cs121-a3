@@ -1,0 +1,5 @@
+3q:[('https://www.ics.uci.edu/~eppstein/numth/egypt/qgrady.html', 30.133895588539037), ('https://www.ics.uci.edu/~magda/Projects/VIP.html', 10.229061330401503)]
+3q21:[('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P4-promoters-motifs/chromosome.txt', 17.319306351344068), ('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P2-promoters-motifs/chromosome.txt', 17.319306351344068)]
+3qt3:[('https://www.ics.uci.edu/~rickl/courses/cs-271/2011-fq-cs271/CS-MS-exam-roster-FQ2011.mht', 10.922208510961449)]
+3qsq:[('https://www.ics.uci.edu/~dan/genealogy/Miller/resource/1869censustips.htm', 10.922208510961449)]
+3qebpyyiwbvidzyccfzzt:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]

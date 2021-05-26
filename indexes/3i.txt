@@ -1,0 +1,5 @@
+3i:[('https://www.ics.uci.edu/~pattis/ICS-46/lectures/notes/heaps.txt', 20.615919751018424), ('https://www.ics.uci.edu/~eppstein/261/f03-outline/01.intro', 9.82359622229334), ('https://www.ics.uci.edu/~welling/publications/publications.html', 9.82359622229334)]
+3int:[('https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs222-2019-fall-project2/Project2.2.patch', 17.319306351344068), ('https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs222-2019-fall-project2/Project2.patch', 17.319306351344068)]
+3in:[('https://grape.ics.uci.edu/wiki/public/wiki/cs222-2019-fall-project2-description?action=diff&version=1', 10.229061330401503), ('https://grape.ics.uci.edu/wiki/public/wiki/cs222-2019-fall-project1-description?action=diff&version=1', 10.229061330401503)]
+3ilya:[('http://archive.ics.uci.edu/ml/support/Diabetes', 10.922208510961449)]
+3independence:[('http://sli.ics.uci.edu/Classes/2009S', 10.922208510961449)]

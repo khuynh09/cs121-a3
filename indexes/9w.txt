@@ -1,0 +1,3 @@
+9w417:[('https://ngs.ics.uci.edu/travel-experiences/', 10.922208510961449)]
+9wuaezpdvaceo4tw1rp8ai:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+9wafs2dmggxnnmf83x6x4tth10q4ewbeyxj15tfq6wy9cm2pu1g3ilaqjz1:[('https://www.ics.uci.edu/~kay/courses/10/hw/TagGame.xml', 10.922208510961449)]

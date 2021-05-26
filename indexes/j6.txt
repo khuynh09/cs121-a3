@@ -1,0 +1,6 @@
+j6:[('https://www.ics.uci.edu/~aces/journals.htm', 8.619623417967404), ('https://www.ics.uci.edu/~givargis/', 8.619623417967404), ('https://www.ics.uci.edu/~gopi/Resume.html', 8.619623417967404), ('https://www.ics.uci.edu/~ihler/pubs00.html', 8.619623417967404), ('https://www.ics.uci.edu/~emj/Mjolsness_CV_V67p.htm', 8.619623417967404), ('https://www.ics.uci.edu/~kobsa/kobsa-publi.htm', 8.619623417967404), ('https://www.ics.uci.edu/~majumder/pub.html', 8.619623417967404), ('https://www.ics.uci.edu/~ihler/pubs.html', 8.619623417967404), ('https://www.ics.uci.edu/~kobsa/kobsa-research.htm', 8.619623417967404), ('https://www.ics.uci.edu/~shantas/publications.html', 8.619623417967404)]
+j68d:[('https://www.ics.uci.edu/~eppstein/bibs/subiso.bib', 18.492906545822215)]
+j6bnbrqqew9cllxal1l:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+j62:[('https://www.ics.uci.edu/~dan/bridge/performance.html', 10.922208510961449)]
+j6543:[('https://www.ics.uci.edu/~dan/bridge/performance.html', 10.922208510961449)]
+j65:[('https://www.ics.uci.edu/~dan/bridge/performance.html', 10.922208510961449)]

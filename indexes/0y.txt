@@ -1,0 +1,3 @@
+0y:[('https://www.ics.uci.edu/~pattis/ICS-31/lectures/simplify/lecture.html', 33.78234546510585), ('https://www.ics.uci.edu/~pattis/ICS-21/lectures/simplification/lecture.html', 33.78234546510585)]
+0ykbcxjxrb6xq4dgtla:[('https://www.ics.uci.edu/~rickl/courses/cs-271/2011-fq-cs271/CS-MS-exam-roster-FQ2011.mht', 10.922208510961449)]
+0yrxh9dua9wpna8vadud3aog:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]

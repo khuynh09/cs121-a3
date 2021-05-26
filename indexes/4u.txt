@@ -1,0 +1,7 @@
+4unsupervised:[('http://sli.ics.uci.edu/Classes/2015W-273a', 9.82359622229334), ('http://sli.ics.uci.edu/Classes/2015W-178', 9.82359622229334), ('http://sli.ics.uci.edu/Classes/2016W-178', 9.82359622229334)]
+4uci:[('https://www.ics.uci.edu/~dgillen/lab-members.html', 22.921481000499117)]
+4use:[('https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs122a-2016-spring/2016s-cs122a-hw4-script.sql', 10.229061330401503), ('https://grape.ics.uci.edu/wiki/public/attachment/wiki/cs122a-2016-spring/2016s-cs122a-hw5-script.sql', 10.229061330401503)]
+4u:[('https://ngs.ics.uci.edu/tata-and-rs-1-lakh-car/', 10.922208510961449)]
+4uv:[('https://www.ics.uci.edu/~eppstein/junkyard/q-triangle.html', 10.922208510961449)]
+4ucwhvvst0jf9gbkdavafl:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+4uhxp3df8b4ny5c4xinu5khd9sfyf9xvrubh369ifmzzozzpxn90:[('https://www.ics.uci.edu/~kay/courses/10/hw/hw7-lists.xml', 10.922208510961449)]

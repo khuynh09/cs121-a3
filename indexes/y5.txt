@@ -1,0 +1,1 @@
+y5:[('http://archive.ics.uci.edu/ml/datasets/Stock+portfolio+performance', 10.922208510961449)]

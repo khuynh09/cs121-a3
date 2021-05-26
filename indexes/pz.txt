@@ -1,0 +1,7 @@
+pz:[('https://cbcl.ics.uci.edu/lib/exe/css.php?t=centered-cbcl&tseed=358bf243a3b71e23e8f1a0456db14afa', 49.91199027896675), ('https://cbcl.ics.uci.edu/lib/exe/css.php?t=centered-cbcl&tseed=9e32c19a82c10e185637144811c5fcd1', 49.91199027896675), ('https://www.ics.uci.edu/~rickl/rickl-patent-5526281.html', 16.145706156865923), ('https://www.ics.uci.edu/~dan/genealogy/lds-list.txt', 9.535914149841558)]
+pzp:[('https://cbcl.ics.uci.edu/public_data/shilab/forAmber/rMats-HCT116-DMSO-5uM/ASEvents/fromGTF.RI.txt', 10.922208510961449)]
+pzemesyl:[('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/teich.htm', 10.922208510961449)]
+pz3v7b5s:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+pzemizel:[('https://www.ics.uci.edu/~dan/genealogy/Miller/spira/brknspir.htm', 10.922208510961449)]
+pzenberg:[('https://www.ics.uci.edu/~dan/genealogy/Krakow/other/Miodowa.txt', 10.922208510961449)]
+pzazz:[('https://www.ics.uci.edu/~kay/wordlist.txt', 10.922208510961449)]

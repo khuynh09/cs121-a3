@@ -1,0 +1,4 @@
+0while:[('http://tutors.ics.uci.edu/index.php/79-python-resources/103-for-while-basics', 17.319306351344068), ('http://tutors.ics.uci.edu/index.php/79-python-resources/109-while-true', 10.229061330401503)]
+0wl:[('http://archive.ics.uci.edu/ml/support/Thyroid+Disease', 10.922208510961449)]
+0wome90jktv98k:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+0w0000010:[('https://www.ics.uci.edu/~andre/informatics122f2006/maze.txt', 10.922208510961449)]

@@ -1,0 +1,2 @@
+z4:[('https://www.ics.uci.edu/~eppstein/junkyard/circumcenter.html', 21.46683380952036), ('http://archive.ics.uci.edu/ml/datasets/Wearable+Computing%3A+Classification+of+Body+Postures+and+Movements+%28PUC-Rio%29', 10.229061330401503)]
+z4o:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]

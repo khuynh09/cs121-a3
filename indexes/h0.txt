@@ -1,0 +1,2 @@
+h0:[('https://www.ics.uci.edu/~wjohnson/BIDA/Ch13/RcodeKidney.txt', 25.63406441889665), ('https://www.ics.uci.edu/~asuncion/homochirality.htm', 16.632794246735298), ('https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/matlab/vl_cf.html', 16.632794246735298)]
+h0freq:[('https://www.ics.uci.edu/~wjohnson/BIDA/Ch13/RcodeKidney.txt', 10.922208510961449)]

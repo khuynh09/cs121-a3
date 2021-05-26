@@ -1,0 +1,8 @@
+2z:[('https://www.ics.uci.edu/~rickl/courses/cs-171/projects_old_see_AI-projects/connect-k/connectgame/symvc/SampleSource/connectk.map', 40.344826789167215), ('https://www.ics.uci.edu/~rickl/courses/cs-271/projects_old_see_AI-projects/connect-k/connectgame/symvc/SampleSource/connectk.map', 40.344826789167215), ('https://www.ics.uci.edu/~minhaenl/MH/MHP2G/MHP2G%20v1.2.files/sheet009.htm', 36.73365535286646), ('https://www.ics.uci.edu/~eppstein/junkyard/napkin.html', 25.999015503187348), ('https://www.ics.uci.edu/~minhaenl/MH/MHP2G/MHP2G%20v1.2.files/sheet011.htm', 15.767891282098136)]
+2zcx8m93rusn:[('https://www.ics.uci.edu/~kay/courses/10/hw/FirstDay.xml', 10.922208510961449)]
+2zchpw4mnn1fwz4tn8d5:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+2zy:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+2zddz9:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+2zlezzt96tyma5hqf5yps0nhsppggfltvsgxgx9cvowve9se:[('https://www.ics.uci.edu/~kay/courses/10/hw/TagGame.xml', 10.922208510961449)]
+2zx2z:[('https://www.ics.uci.edu/~eppstein/junkyard/hyperbolic-tiles.html', 10.922208510961449)]
+2zbkwh:[('https://www.ics.uci.edu/~kobsa/kobsa-public-key.txt', 10.922208510961449)]

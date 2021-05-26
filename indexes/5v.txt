@@ -1,0 +1,3 @@
+5v:[('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+arrays+in+open+sampling+settings', 16.145706156865923), ('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+exposed+to+turbulent+gas+mixtures', 9.535914149841558), ('http://archive.ics.uci.edu/ml/datasets/Gas+sensor+array+temperature+modulation', 9.535914149841558), ('https://www.ics.uci.edu/~rickl/courses/cs-171/0-ihler-2016-fq/Projects/ConnectK/src/ConnectKSource_python/__pycache__/__init__.cpython-34.pyc', 9.535914149841558)]
+5vt8k9tvr5akwxtuzsgeqqbtkw:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+5vhxeoonrc3qgjqiyqqomgcabkjw4oumi1ge:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]

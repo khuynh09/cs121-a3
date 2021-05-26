@@ -1,0 +1,6 @@
+6yz:[('https://www.ics.uci.edu/~rohit/IEEE-L7-FTP-COLUMN-FINAL.htm', 18.492906545822215)]
+6y:[('http://archive.ics.uci.edu/ml/datasets/Bank+Marketing', 10.922208510961449)]
+6yxws:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+6yrs:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+6ydwb0asj7uherkjil8f3:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+6yx60uy8d5ujn5mlahdayamomhckatq7o5uw5nzk7eksvjqvwksxakpebuo0ftfwbvkyhbcpttavrdfowah6pm8lz8x0kgl3tkegpmyuhhq7o98apsl7qi:[('https://www.ics.uci.edu/~kay/courses/10/hw/hw7-lists.xml', 10.922208510961449)]

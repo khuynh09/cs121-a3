@@ -1,0 +1,5 @@
+k6:[('https://www.ics.uci.edu/~eppstein/junkyard/thickness/', 26.69210044416328), ('http://archive.ics.uci.edu/ml/datasets/p53+Mutants', 17.319306351344068)]
+k63:[('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P2-promoters-motifs/reactome.txt', 10.229061330401503), ('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P4-promoters-motifs/reactome.txt', 10.229061330401503)]
+k64p4l2wmeg:[('https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs122b-2017-spring-project1/data.sql', 10.922208510961449)]
+k6syanwdxa8cj:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+k65:[('https://www.ics.uci.edu/~dan/bridge/performance.html', 10.922208510961449)]

@@ -1,0 +1,6 @@
+6g:[('http://archive.ics.uci.edu/ml/datasets/PAMAP2+Physical+Activity+Monitoring', 9.312770598527349), ('https://www.ics.uci.edu/~eppstein/ca/b35s236/delay-line.lif', 9.312770598527349), ('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 9.312770598527349), ('https://www.ics.uci.edu/~eppstein/ca/b35s236/6-8.lif', 9.312770598527349), ('https://www.stat.uci.edu/minor-in-statistics/', 9.312770598527349)]
+6georg:[('http://archive.ics.uci.edu/ml/support/Servo', 10.922208510961449)]
+6ghz:[('https://www.ics.uci.edu/~mayur/killer_app.html', 10.922208510961449)]
+6gb:[('https://www.ics.uci.edu/~ics1c/hw4/15.html', 10.922208510961449)]
+6g1azykhf7pzlem9uh:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+6gxo6yxu8rc2xvzlliwbukiqmcw:[('https://www.ics.uci.edu/~kobsa/kobsa-public-key.txt', 10.922208510961449)]

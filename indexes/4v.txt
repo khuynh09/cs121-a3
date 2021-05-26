@@ -1,0 +1,4 @@
+4v5:[('https://www.ics.uci.edu/~rickl/courses/cs-271/projects_old_see_AI-projects/connect-k/connectgame/vcpp/ConnectFINAL/SampleSource/connect.ncb', 21.46683380952036), ('https://www.ics.uci.edu/~rickl/courses/cs-171/projects_old_see_AI-projects/connect-k/connectgame/vcpp/ConnectFINAL/SampleSource/connect.ncb', 21.46683380952036)]
+4v:[('https://frost.ics.uci.edu/inf43/NoSilverBullet-errata.txt', 10.922208510961449)]
+4variational:[('http://sli.ics.uci.edu/Classes/2012S-274b', 10.922208510961449)]
+4vieru:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]

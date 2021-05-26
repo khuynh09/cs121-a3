@@ -1,0 +1,6 @@
+7k:[('http://archive.ics.uci.edu/ml/datasets/Repeat+Consumption+Matrices', 15.767891282098136), ('https://www.ics.uci.edu/~rickl/courses/cs-271/2011-fq-cs271/CS-MS-exam-roster-FQ2011.mht', 9.312770598527349), ('https://www.ics.uci.edu/~eppstein/180a/970401.html', 9.312770598527349), ('https://www.ics.uci.edu/~dan/genealogy/Miller/maps.htm', 9.312770598527349), ('https://www.ics.uci.edu/~eppstein/numth/egypt/carmichael.html', 9.312770598527349)]
+7kb:[('https://www.ics.uci.edu/~dan/genealogy/Miller/langsam/adlan.htm', 17.319306351344068), ('https://www.ics.uci.edu/~irus/wisen/twist99/photos/catalog_file__2.htm', 10.229061330401503)]
+7kd:[('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P4-promoters-motifs/pfam.txt', 10.229061330401503), ('https://cbcl.ics.uci.edu/public_data/shilab/ChIPseq_elmira_08272016/homer-motifs/P2-promoters-motifs/pfam.txt', 10.229061330401503)]
+7khz:[('http://archive.ics.uci.edu/ml/support/Connectionist+Bench+(Vowel+Recognition+-+Deterding+Data)', 10.922208510961449)]
+7km:[('http://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption', 10.922208510961449)]
+7kkqkg8zzyd2:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]

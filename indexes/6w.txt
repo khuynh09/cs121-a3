@@ -1,0 +1,2 @@
+6wl:[('http://archive.ics.uci.edu/ml/support/Wine', 10.922208510961449)]
+6wljmqdcrjz:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]

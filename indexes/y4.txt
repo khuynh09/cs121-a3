@@ -1,0 +1,2 @@
+y4:[('https://www.ics.uci.edu/~eppstein/junkyard/circumcenter.html', 20.615919751018424), ('http://archive.ics.uci.edu/ml/datasets/Wearable+Computing%3A+Classification+of+Body+Postures+and+Movements+%28PUC-Rio%29', 9.82359622229334), ('http://archive.ics.uci.edu/ml/datasets/Stock+portfolio+performance', 9.82359622229334)]
+y4gdma:[('https://wics.ics.uci.edu/event/recurse-center/', 10.922208510961449)]

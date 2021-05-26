@@ -1,0 +1,5 @@
+vj:[('http://flamingo.ics.uci.edu/releases/4.1/src/lbaktree/data/data.txt', 9.312770598527349), ('http://flamingo.ics.uci.edu/releases/4.0/src/lbaktree/data/data.txt', 9.312770598527349), ('https://ngs.ics.uci.edu/india-a-mystery-land/', 9.312770598527349), ('https://www.ics.uci.edu/~kay/courses/h22/hw/DVD.txt', 9.312770598527349), ('https://www.ics.uci.edu/~kay/courses/h22/hw/DVD-random.txt', 9.312770598527349)]
+vjfp45jbkt0zfmne4tlglbho:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+vjphuouwm:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+vjimenez:[('https://www.ics.uci.edu/~eppstein/bibs/kpath.bib', 10.922208510961449)]
+vjthomps:[('https://www.ics.uci.edu/~dan/genealogy/Krakow/Families/Zaun.html', 10.922208510961449)]

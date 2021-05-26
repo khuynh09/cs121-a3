@@ -1,0 +1,5 @@
+9in:[('https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project2?action=diff&version=2', 9.82359622229334), ('https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project2?action=diff&version=1', 9.82359622229334), ('https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project2-description?action=diff&version=1', 9.82359622229334)]
+9i55rbqzv8:[('https://grape.ics.uci.edu/wiki/public/raw-attachment/wiki/cs122b-2017-spring-project1/data.sql', 18.492906545822215)]
+9i:[('https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/paper6', 18.492906545822215)]
+9introduction:[('http://sli.ics.uci.edu/Classes/2009S', 10.922208510961449)]
+9isym3onswaaaaaaelftksuqmcc:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]

@@ -1,0 +1,1 @@
+u85:[('http://archive.ics.uci.edu/ml/datasets/Ozone+Level+Detection', 10.922208510961449)]

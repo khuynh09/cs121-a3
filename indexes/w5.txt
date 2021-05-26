@@ -1,0 +1,6 @@
+w5:[('http://sli.ics.uci.edu/Classes/2015F-179', 19.543894819616565), ('https://www.ics.uci.edu/~ardalan/courses/advanced_os/schedule.html', 15.767891282098136), ('https://www.ics.uci.edu/~kobsa/kobsa-publi.htm', 9.312770598527349), ('https://www.ics.uci.edu/~kobsa/kobsa-research.htm', 9.312770598527349), ('https://www.ics.uci.edu/~aces/conferences.htm', 9.312770598527349)]
+w5h:[('https://ngs.ics.uci.edu/i-htm/', 26.063604580682984)]
+w51:[('http://archive.ics.uci.edu/ml/datasets/Sales_Transactions_Dataset_Weekly', 10.922208510961449)]
+w5dh9reqh:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+w5ffae1akq3pvghgwehvsu46sbzoxeuqoukgd2czevm81xezvye:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+w5b:[('https://www.ics.uci.edu/~kay/courses/10/hw/hw5.html', 10.922208510961449)]

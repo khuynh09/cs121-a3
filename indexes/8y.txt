@@ -1,0 +1,3 @@
+8you:[('https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-mac-setup-guide?action=diff&version=1', 10.922208510961449)]
+8yjssoxiepv44:[('https://www.ics.uci.edu/~kkask/Spring-2018%20CS273P/Demos/Intro_Tutorial.ipynb', 10.922208510961449)]
+8yjtxrkr6yf1kxucqquvsrovsosjunkaljbsameovn3zbqledsac8uxzpgeespixce1fwoioz3zxprom6mhwwlisgsoynyttlqis:[('https://www.ics.uci.edu/~kay/courses/10/hw/TagGame.xml', 10.922208510961449)]
