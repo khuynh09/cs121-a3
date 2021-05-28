@@ -1,7 +1,8 @@
 import os
 import json
 from Indexer import Indexer
-
+import tkinter
+import PySimpleGUI as sg
 
 
 def main():
@@ -111,86 +112,92 @@ def milestone2():
         print()
 
             
-def milestone3():
+def run():
     running = True
-    # words = ["cristina lopes", "machine learning", "ACM",  "master of software engineering"]
+
+    sg.theme('DarkAmber')
+    layout =[ [sg.Text('Search:'), sg.InputText()],
+            [sg.Button('Search')] ]
+    window = sg.Window('Window Title', layout)
+
+
     while(running):
-        query = input("Search: ")
-
-        words = query.lower().split()
-        queries = dict()
-
-        num_of_words = len(words)
-
-        for word in words:
-            found_words = 0
-            try: 
-                file1 = open("indexes/" + word[:2]+".txt")
-            except: 
-                file1 = open("indexes/" + word[0] + ".txt")
-
-            for line in file1:
-
-                if found_words == num_of_words:
-                    break
-
-                token = line.split(":[")[0]
-
-                if token in words:
-                    found_words += 1
-
-                    new_line = line.split(":[")[1].replace("]","")
-                    postings = new_line.split("), (")
-
-                    queries[token] = {}
-                    for doc in postings: 
-                        mapping = doc.strip().split(", ")
-                        url = mapping[0].replace("(","").replace("'","").replace('"', "").replace(")","")
-                        score = float(mapping[1].replace(")",""))
-                        
-                        
-                        queries[token][url] = score
+        event, values = window.read()
+        if event == sg.WIN_CLOSED or event == 'Cancel': # if user closes window or clicks cancel
+            break
+        sortedDocs = search(values[0])
+        print(values[0])
+    window.close()
 
 
-        AND_postings = []
 
 
+def search(query):
+    words = query.lower().split()
+    queries = dict()
+
+    num_of_words = len(words)
+
+    for word in words:
+        found_words = 0
+        try: 
+            file1 = open("indexes/" + word[:2]+".txt")
+        except: 
+            file1 = open("indexes/" + word[0] + ".txt")
+
+        for line in file1:
+
+            if found_words == num_of_words:
+                break
+
+            token = line.split(":[")[0]
+
+            if token in words:
+                found_words += 1
+
+                new_line = line.split(":[")[1].replace("]","")
+                postings = new_line.split("), (")
+
+                queries[token] = {}
+                for doc in postings: 
+                    mapping = doc.strip().split(", ")
+                    url = mapping[0].replace("(","").replace("'","").replace('"', "").replace(")","")
+                    score = float(mapping[1].replace(")",""))
+                    
+                    
+                    queries[token][url] = score
+
+
+    AND_postings = []
+
+
+    for token in queries.keys():
+        docs = queries[token].keys()
+
+        if len(AND_postings) == 0:
+            AND_postings = docs
+        else:
+            AND_postings = intersection(AND_postings, docs)
+
+
+
+    total_doc_scores = dict()
+
+    for docs in AND_postings:
+        score = 0
         for token in queries.keys():
-            docs = queries[token].keys()
+            score += queries[token][docs]
 
-            if len(AND_postings) == 0:
-                AND_postings = docs
-            else:
-                AND_postings = intersection(AND_postings, docs)
+        total_doc_scores[docs] = score
 
 
-
-        total_doc_scores = dict()
-
-        for docs in AND_postings:
-            score = 0
-            for token in queries.keys():
-                score += queries[token][docs]
-
-            total_doc_scores[docs] = score
-
-
-        top5 = sorted(total_doc_scores.items(), key=lambda x: x[1], reverse=True)[0:5]
-        sortedDocs = sorted(total_doc_scores.items(), key=lambda x: x[1], reverse=True)
-        print()
-        print("Results: ")
-        for results in top5:
-            print("{} : {}".format(results[0], results[1]))
-        print()
-
-
-
-
-
+    #top5 = sorted(total_doc_scores.items(), key=lambda x: x[1], reverse=True)[0:5]
+    sortedDocs = sorted(total_doc_scores.items(), key=lambda x: x[1], reverse=True)
+    return sortedDocs
             
 
 
     
 
 # main()
-milestone3()
+run()

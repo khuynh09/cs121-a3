@@ -44,8 +44,8 @@ class Indexer:
     def parse(self, content, url):
         defraggedUrl = urldefrag(url)[0]
         soup = BeautifulSoup(content, 'html.parser')
-        # if soup.get_text() not in content.values():
-        #     return
+        if soup.get_text() not in content.values():
+            return
         tokens = re.findall(r'[A-Za-z0-9]+', soup.get_text().lower())
         for t in tokens:
 
@@ -59,7 +59,7 @@ class Indexer:
                         self.invertedIndex[t]['postings'][defraggedUrl] = 1
                     else:
                         self.invertedIndex[t]['postings'][defraggedUrl] += 1
-                # content[defraggedUrl] = soup.get_text()
+                content[defraggedUrl] = soup.get_text()
         self.total_documents += 1
 
     def compute_tdidf(self):
