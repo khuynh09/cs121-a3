@@ -116,17 +116,23 @@ def run():
     running = True
 
     sg.theme('DarkAmber')
-    layout =[ [sg.Text('Search:'), sg.InputText()],
-            [sg.Button('Search')] ]
-    window = sg.Window('Window Title', layout)
+    layout =[ [sg.Text('Search:'), sg.InputText(key="query")],
+            [sg.Button('Search')] ,
+            [sg.Listbox(size=(100,50),values=[],key="results")]]
+    window = sg.Window('ICS Search Engine').Layout(layout).Finalize()
 
 
     while(running):
         event, values = window.read()
         if event == sg.WIN_CLOSED or event == 'Cancel': # if user closes window or clicks cancel
             break
-        sortedDocs = search(values[0])
-        print(values[0])
+
+        if event == "Search":
+            sortedDocs = search(values["query"])
+            if len(sortedDocs) == 0:
+                sortedDocs = ["No results found"] 
+            window.FindElement("results").Update(values=sortedDocs) 
+        
     window.close()
 
 
@@ -143,7 +149,12 @@ def search(query):
         try: 
             file1 = open("indexes/" + word[:2]+".txt")
         except: 
-            file1 = open("indexes/" + word[0] + ".txt")
+            try:
+                file1 = open("indexes/" + word[0] + ".txt")
+            except:
+                continue
+
+            
 
         for line in file1:
 
