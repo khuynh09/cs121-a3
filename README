@@ -1,0 +1,11 @@
+How to use the Search Engine:
+
+1. Install all dependencies of the following:
+    `pip3 install pysimplegui` or `pip install pysimplegui`
+
+2. Run the main.py using `python3 main.py` or `python main.py` 
+
+3. Type your query on the input field
+
+4. Click `Search`
+
